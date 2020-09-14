@@ -1,6 +1,6 @@
 # CS114.L11.KHCL
 
-#Contributor
+# Contributor
 | Họ và tên | MSSV | 
 |--------------|-------|
 | Huỳnh Trọng Khoa | 18520918 |
