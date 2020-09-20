@@ -12,7 +12,7 @@ Group N003 - Machine learning Course
 - Machine learning with Python
 - Practice Python #1
 # Week 2: Computational Thinking
-- Computational Thinking: Abstraction, Decomposition, Patter Recognization, Algorithm Design
+- Computational Thinking: Abstraction, Decomposition, Pattern Recognization, Algorithm Design
 - Practice Python #2
 # Week 3:
 # Week 4:
