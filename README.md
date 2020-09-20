@@ -1,5 +1,5 @@
 # CS114.L11.KHCL
-Group 3 - Machine learning Course
+Group N003 - Machine learning Course
 
 # Contributors
 | Full Name | Student ID | Role |
