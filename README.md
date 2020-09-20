@@ -13,10 +13,10 @@ Group 3 - Machine learning Course
 - Practice Python #1
 # Week 2: Computational Thinking
 - Computational Thinking:
--- Abstraction
--- Decomposition
--- Pattern Recognization
--- Algorithm Design
+* Abstraction
+* Decomposition
+* Pattern Recognization
+* Algorithm Design
 - Practice Python #2
 # Week 3:
 # Week 4:
