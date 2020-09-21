@@ -8,20 +8,16 @@ Group N003 - Machine learning Course
 | Nguyễn Tấn Phúc | 18521259 | |
 | Nguyễn Tiến Công | 17520299 ||
 
-# Week 1: Introduction
+# Week 1: Introduction (1)
 - Machine learning with Python
-- Practice Python #1
-# Week 2: Computational Thinking
-- Computational Thinking: Abstraction, Decomposition, Pattern Recognization, Algorithm Design
+- Lab 01: Practice Python #1
+# Week 2: Introduction (2)
+- Computational Thinking
 - Practice Python #2
-# Week 3:
-# Week 4:
-# Week 5:
-# Week 6:
-# Week 7:
-# Week 8:
-# Week 9:
-# Week 10:
+# Week 3: Introduction (3)
+- Lab 02: Google Colab Tutorial
+- Lab 03: Kaggle
+- Practice Python #3
 
 
 
