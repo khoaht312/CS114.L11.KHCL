@@ -9,13 +9,13 @@ Group N003 - Machine learning Course
 | Nguyễn Tiến Công | 17520299 ||
 
 # Process 
-1 Week 1: Introduction (1)
+1. Week 1: Introduction (1)
   * Machine learning with Python
   * Lab 01: Practice Python #1
-2 Week 2: Introduction (2)
+2. Week 2: Introduction (2)
   * Computational Thinking
   * Practice Python #2
-3 Week 3: Introduction (3)
+3. Week 3: Introduction (3)
   * Lab 02: Google Colab Tutorial
   * Lab 03: Kaggle
   * Practice Python #3
