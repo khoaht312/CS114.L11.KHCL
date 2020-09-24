@@ -10,9 +10,9 @@ Group ID: N003
 
 # Process
 
-[x] Lab 1: Programming with Python.
-[x] Lab 2: Using Google Colab.
-[x] Lab 3: Kaggle API Access.
-[ ] Lab 4:
+- [x] Lab 1: Programming with Python.
+- [x] Lab 2: Using Google Colab.
+- [x] Lab 3: Kaggle API Access.
+- [ ] Lab 4:
 
 
