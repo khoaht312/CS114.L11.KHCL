@@ -23,5 +23,9 @@
 
 # Types of Machine Learning Algorithms
 - [x] Supervised (Học giám sát)
+- Classification and Regression algorithm
+- Phát triển mô hình dự đoán qua dữ liệu Input và Output  
 - [x] Unsupervised (Học không giám sát)
+- Clustering algorithm
+- Phân nhóm, tìm cấu trúc chung dựa trên dữ liệu Input
 - [x] Reinforment (Học tăng cường)
