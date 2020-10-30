@@ -13,6 +13,6 @@ Group ID: N003
 - [x] Lab 1: Programming with Python.
 - [x] Lab 2: Using Google Colab.
 - [x] Lab 3: Kaggle API Access.
-- [ ] Lab 4:
+- [x] Lab 4: Linear Regression with one variable and multiple variables.
 
 
