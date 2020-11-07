@@ -14,5 +14,6 @@ Group ID: N003
 - [x] Lab 2: Using Google Colab.
 - [x] Lab 3: Kaggle API Access.
 - [x] Lab 4: Linear Regression with one variable and multiple variables.
+- [x] Lab 5: Logistic Regression.
 
 
