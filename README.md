@@ -4,8 +4,8 @@ Group ID: N003
 # Contributors
 | Full Name | Student ID | Github | Role |
 |--------------|-------| ------ | ------ |
-| Huỳnh Trọng Khoa | 18520918 | https://github.com/18520918?tab=repositories | Leader |
+| Huỳnh Trọng Khoa | 18520918 | https://github.com/18520918 | Leader |
 | Nguyễn Tấn Phúc | 18521259 | https://github.com/18521259 | |
-| Nguyễn Tiến Công | 17520299 | https://github.com/17520299?tab=repositories | |
+| Nguyễn Tiến Công | 17520299 | https://github.com/17520299 | |
 
 
