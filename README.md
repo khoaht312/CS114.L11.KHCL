@@ -8,10 +8,6 @@ Mã nhóm: N003
 |2| Nguyễn Tấn Phúc | 18521259 | https://github.com/18521259 | |
 |3| Nguyễn Tiến Công | 17520299 | https://github.com/17520299 | |
 
-# Lý thuyết
-1.
-2.
-3.
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
 - [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb) 
@@ -25,4 +21,7 @@ Mã nhóm: N003
 - [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
 - [ ] News Headlines Sarcasm Detection
 
+# Dịch và tóm tắt sách
+- [ ] Introduction to Machine learning with Python (8 chapters)
+- [ ] Hands-on Machine learning with Scikit-learn & Tensorflow (15 chapters)
 
