@@ -8,7 +8,11 @@ Mã nhóm: N003
 |2| Nguyễn Tấn Phúc | 18521259 | https://github.com/18521259 | |
 |3| Nguyễn Tiến Công | 17520299 | https://github.com/17520299 | |
 
-# Bài tập
+# Lý thuyết
+1.
+2.
+3.
+# Thực hành
 1. **Lập trình bằng Python [Wecode]**
 - [x] None 
 - [x] None
