@@ -14,13 +14,13 @@ Mã nhóm: N003
 3.
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
-- [x] None 
-- [x] None
+- [x] [Cấu trúc dữ liệu] (https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb) 
+- [ ] Con trỏ trong python
 2. **Thực hành Linear Regression**
-- [x] None 
-- [x] None
+- [x] [Dự đoán thời gian chạy của thuật toán] (https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb) 
+- [ ] Dự đoán giá nhà (đa biến)
 3. **Thực hành Logistic Regression**
-- [x] Fetus Health
-- [x] News Headlines Sarcasm Detection
+- [x] [Fetus Health] (https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
+- [ ] News Headlines Sarcasm Detection
 
 
