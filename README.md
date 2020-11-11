@@ -13,9 +13,9 @@
 - [x] Con trỏ trong python (Assignment #1)
 2. **Sử dụng bộ dữ liệu kaggle vào Google Colab**
 - [x] [Notebook](https://github.com/18520918/CS114.L11.KHCL/tree/master/Assignment%202) (Assignment #2)
-2. **Thực hành Linear Regression**
+3. **Thực hành Linear Regression**
 - [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb)  (Assignment #3)
-3. **Thực hành Logistic Regression**
+4. **Thực hành Logistic Regression**
 - [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb) (Assignment #4)
 - [x] News Headlines Sarcasm Detection (Assignment #5)
 
