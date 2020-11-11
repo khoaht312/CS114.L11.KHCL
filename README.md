@@ -1,5 +1,4 @@
-# CS114.L11.KHCL
-Mã nhóm: N003
+![Banner.png](https://i.imgur.com/foGMqVl.jpg)
 
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Đường dẫn tài khoản Github | Vai trò |
