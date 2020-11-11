@@ -1,4 +1,4 @@
-![Banner.png](https://i.imgur.com/foGMqVl.jpg "Banner")
+![ALT](https://i.imgur.com/foGMqVl.jpg "Banner")
 
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Đường dẫn tài khoản Github | Vai trò |
@@ -9,16 +9,15 @@
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
-- [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb) 
-- [ ] Con trỏ trong python
+- [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb) (Assignment #1)
+- [x] Con trỏ trong python (Assignment #1)
 2. **Sử dụng bộ dữ liệu kaggle vào Google Colab**
-- [x] [Notebook](https://github.com/18520918/CS114.L11.KHCL/tree/master/Assignment%202)
+- [x] [Notebook](https://github.com/18520918/CS114.L11.KHCL/tree/master/Assignment%202) (Assignment #2)
 2. **Thực hành Linear Regression**
-- [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb) 
-- [ ] Dự đoán giá nhà (đa biến)
+- [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb)  (Assignment #3)
 3. **Thực hành Logistic Regression**
-- [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
-- [ ] News Headlines Sarcasm Detection
+- [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb) (Assignment #4)
+- [x] News Headlines Sarcasm Detection (Assignment #5)
 
 # Dịch và tóm tắt sách
 - [ ] Introduction to Machine learning with Python (8 chapters)
