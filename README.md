@@ -15,7 +15,7 @@
 - [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb)
 4. **Thực hành Logistic Regression**
 - [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
-- [x] News Headlines Sarcasm Detection
+- [x] [News Headlines Sarcasm Detection](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%206/New_Headline_Sarcasm_Detection.ipynb)
 
 # Dịch và tóm tắt sách
 - [ ] Introduction to Machine learning with Python (8 chapters)
