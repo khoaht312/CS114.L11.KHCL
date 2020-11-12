@@ -9,15 +9,15 @@
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
-- [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb) (Assignment #1)
-- [x] Con trỏ trong python (Assignment #1)
+- [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb)
+- [x] [Con trỏ trong python](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__2.ipynb) 
 2. **Sử dụng bộ dữ liệu kaggle vào Google Colab**
-- [x] [Notebook](https://github.com/18520918/CS114.L11.KHCL/tree/master/Assignment%202) (Assignment #2)
+- [x] [Notebook](https://github.com/18520918/CS114.L11.KHCL/tree/master/Assignment%202)
 3. **Thực hành Linear Regression**
-- [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb)  (Assignment #3)
+- [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb)
 4. **Thực hành Logistic Regression**
-- [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb) (Assignment #4)
-- [x] News Headlines Sarcasm Detection (Assignment #5)
+- [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
+- [x] News Headlines Sarcasm Detection
 
 # Dịch và tóm tắt sách
 - [ ] Introduction to Machine learning with Python (8 chapters)
