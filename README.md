@@ -13,6 +13,9 @@
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
+- [x] Bài tập lập trình #1 (23:00 update)
+- [x] Bài tập lập trình #2 (23:00 update)
+- [x] Bài tập lập trình #3 (23:00 update)
 - [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb)
 - [x] [Con trỏ trong python](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__2.ipynb) 
 2. **Sử dụng bộ dữ liệu kaggle vào Google Colab**
