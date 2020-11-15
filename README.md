@@ -1,18 +1,10 @@
-# Ảnh banner (23:00 update)
+# CS114.L11.KHCL | Machine learning course | Group N003 repository
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Tài khoản github | Vai trò |
 |-----|--------------|-----------| ------ | ------ |
 |1| Huỳnh Trọng Khoa | 18520918 | [18520918](https://github.com/18520918) | Trưởng nhóm |
 |2| Nguyễn Tấn Phúc | 18521259 | [18521259](https://github.com/18521259) | |
 |3| Nguyễn Tiến Công | 17520299 | [17520299](https://github.com/17520299) | |
-
-# Tóm tắt bài giảng
-- [ ] 1.Computational Thinking
-- [ ] 2.Máy học - Các khái niệm - Phân loại thuật toán máy học
-- [ ] 3.Feature Engineering
-- [ ] 4.Linear Regression
-- [ ] 5.Classification
-- [ ] 6.Logistic Regression
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
