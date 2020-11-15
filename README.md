@@ -1,10 +1,10 @@
 # Ảnh banner (23:00 update)
 # Thành viên nhóm
-| STT | Họ và tên | Mã số sinh viên| Đường dẫn tài khoản Github | Vai trò |
+| STT | Họ và tên | Mã số sinh viên| Tài khoản github | Vai trò |
 |-----|--------------|-----------| ------ | ------ |
-|1| Huỳnh Trọng Khoa | 18520918 | https://github.com/18520918 | Trưởng nhóm |
-|2| Nguyễn Tấn Phúc | 18521259 | https://github.com/18521259 | |
-|3| Nguyễn Tiến Công | 17520299 | https://github.com/17520299 | |
+|1| Huỳnh Trọng Khoa | 18520918 | [18520918](https://github.com/18520918) | Trưởng nhóm |
+|2| Nguyễn Tấn Phúc | 18521259 | [18521259](https://github.com/18521259) | |
+|3| Nguyễn Tiến Công | 17520299 | [17520299](https://github.com/17520299) | |
 
 # Lý thuyết
 
