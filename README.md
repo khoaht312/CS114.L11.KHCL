@@ -6,11 +6,13 @@
 |2| Nguyễn Tấn Phúc | 18521259 | [18521259](https://github.com/18521259) | |
 |3| Nguyễn Tiến Công | 17520299 | [17520299](https://github.com/17520299) | |
 
-# Lý thuyết
-
-1. 15.11.2020 (23:00 update) 
-2. 15.11.2020 (23:00 update)
-3. 15.11.2020 (23:00 update)
+# Tóm tắt bài giảng
+1. [] Computational Thinking
+2. [] Máy học - Các khái niệm - Phân loại thuật toán máy học
+3. [] Feature Engineering
+4. [] Linear Regression
+5. [] Classification
+6. [] Logistic Regression
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
