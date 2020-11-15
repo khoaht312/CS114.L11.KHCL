@@ -7,12 +7,12 @@
 |3| Nguyễn Tiến Công | 17520299 | [17520299](https://github.com/17520299) | |
 
 # Tóm tắt bài giảng
-- [] 1-Computational Thinking
-- [] 2-Máy học - Các khái niệm - Phân loại thuật toán máy học
-- [] 3-Feature Engineering
-- [] 4-Linear Regression
-- [] 5-Classification
-- [] 6-Logistic Regression
+- [ ] 1.Computational Thinking
+- [ ] 2.Máy học - Các khái niệm - Phân loại thuật toán máy học
+- [ ] 3.Feature Engineering
+- [ ] 4.Linear Regression
+- [ ] 5.Classification
+- [ ] 6.Logistic Regression
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
