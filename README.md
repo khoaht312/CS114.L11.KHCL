@@ -5,6 +5,12 @@
 |2| Nguyễn Tấn Phúc | 18521259 | https://github.com/18521259 | |
 |3| Nguyễn Tiến Công | 17520299 | https://github.com/17520299 | |
 
+# Lý thuyết
+
+1. 15.11.2020 (23:00 update) 
+2. 15.11.2020 (23:00 update)
+3. 15.11.2020 (23:00 update)
+
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
 - [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb)
