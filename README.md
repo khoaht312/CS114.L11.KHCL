@@ -1,4 +1,5 @@
-![text]((https://github.com/18520918/CS114.L11.KHCL/blob/master/Image/as.jpg%image.png)
+![Banner.png](https://github.com/18520918/CS114.L11.KHCL/blob/master/Image/as.jpg "Banner
+
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Tài khoản github | Vai trò |
 |-----|--------------|-----------| ------ | ------ |
