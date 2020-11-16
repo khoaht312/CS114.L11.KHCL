@@ -17,7 +17,7 @@
 - [x] [Notebook](https://github.com/18520918/CS114.L11.KHCL/tree/master/Assignment%202)
 3. **Thực hành Linear Regression**
 - [x] [Dự đoán thời gian chạy của thuật toán](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/LinearRegression.ipynb)
-- [x] [Dự đoán giá nhà]()
+- [x] [Dự đoán giá nhà](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%203/Multiple_Linear_Regression.ipynb)
 4. **Thực hành Logistic Regression**
 - [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
 - [x] [News Headlines Sarcasm Detection](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%205/New_Headline_Sarcasm_Detection.ipynb)
