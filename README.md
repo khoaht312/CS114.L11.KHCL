@@ -9,6 +9,7 @@
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
+> Mỗi file bài tập bao gồm đề bài, code và bình luận hoặc chú thích.
 - [x] [Bài tập lập trình #1](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_1.ipynb)
 - [x] [Bài tập lập trình #2](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_2.ipynb)
 - [x] [Bài tập lập trình #3](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_3.ipynb)
