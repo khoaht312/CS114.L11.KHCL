@@ -1,4 +1,4 @@
-# CS114.L11.KHCL | Machine learning course | Group N003 repository
+[PHOTO](https://github.com/18520918/CS114.L11.KHCL/blob/master/Image/as.jpg)
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Tài khoản github | Vai trò |
 |-----|--------------|-----------| ------ | ------ |
