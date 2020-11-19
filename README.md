@@ -9,10 +9,10 @@
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
-> Mỗi file bài tập bao gồm đề bài, code và bình luận hoặc chú thích.
-- [x] [Bài tập lập trình #1](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_1.ipynb)
-- [x] [Bài tập lập trình #2](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_2.ipynb)
-- [x] [Bài tập lập trình #3](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_3.ipynb)
+> Mỗi file bài tập bao gồm đề bài, code và (bình luận hoặc chú thích).
+- [x] [Bài tập lập trình cơ bản #1](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_1.ipynb)
+- [x] [Bài tập lập trình cơ bản #2](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_2.ipynb)
+- [x] [Bài tập lập trình cơ bản #3](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/BTLT_3.ipynb)
 - [x] [Cấu trúc dữ liệu](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__1.ipynb)
 - [x] [Con trỏ trong python](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%201/Assignment__2.ipynb) 
 2. **Sử dụng bộ dữ liệu kaggle vào Google Colab**
