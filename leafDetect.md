@@ -2,6 +2,6 @@ kỹ thuật: nhận diện cạnh viền (line detection), colour histogram, K-
 pandas có hàm đọc ảnh<br>
 có hàm flatten: flatten ảnh thành 1 vecto<br>
 lấy luôn vecto này train<br>
-https://archive.ics.uci.edu/ml/datasets/Folio#
+https://archive.ics.uci.edu/ml/datasets/Folio#<br>
 tìm cách tải và giải nén tệp bằng gg colab<br>
 https://archive.ics.uci.edu/ml/machine-learning-databases/00338/
