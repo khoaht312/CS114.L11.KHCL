@@ -24,6 +24,10 @@
 - [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
 - [x] [News Headlines Sarcasm Detection](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%205/New_Headline_Sarcasm_Detection.ipynb)
 
+# Đồ án cuối kỳ
+- [ ] Mô tả đồ án
+- [ ] ...
+
 # Dịch và tóm tắt sách
 - [ ] Introduction to Machine learning with Python (8 chapters)
 - [ ] Hands-on Machine learning with Scikit-learn & Tensorflow (15 chapters)
