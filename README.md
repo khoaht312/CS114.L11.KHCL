@@ -1,4 +1,5 @@
-![Banner.png](https://i.imgur.com/nXwRQJF.jpg "Banner")
+# Thông tin repository:
+- Nơi lưu trữ bài tập, đồ án của nhóm N003 lớp **CS114.L11.KHCL** trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM
 
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Tài khoản github | Vai trò |
