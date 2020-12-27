@@ -25,6 +25,9 @@
 - [x] [Fetus Health](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%204/LogisticRegression.ipynb)
 - [x] [News Headlines Sarcasm Detection](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%205/New_Headline_Sarcasm_Detection.ipynb)
 
+5. **House Prices - Kaggle**
+- [Notebook]()
+
 # Đồ án cuối kỳ
 - [ ] Mô tả đồ án
 - [ ] ...
