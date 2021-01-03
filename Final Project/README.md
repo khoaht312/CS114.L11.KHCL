@@ -1,14 +1,14 @@
+## *MÔ TẢ ĐỒ ÁN MÁY HỌC N003*
+
 **1. Mô tả bài toán:**
 
 - Đầu vào: ảnh chụp ban ngày, từ trên cao và dọc theo con đường có các loại xe cần phân loại
 
 VD:
-
-![alt text](https://drive.google.com/file/d/1g4mXTY2JjDP-6ufMlZN0OiH4sm0fkhV4/view?usp=sharing)
-
+![image](https://github.com/18520918/CS114.L11.KHCL/blob/master/Final%20Project/input.png)
 - Đầu ra: ảnh đầu vào với các xe được gắn nhãn loại tương ứng
 
-![](RackMultipart20210103-4-7t7dds_html_9cbed406647976b.png)
+![image](https://github.com/18520918/CS114.L11.KHCL/blob/master/Final%20Project/output.png)
 
 **2. Mô tả về bộ dữ liệu:**
 
@@ -18,7 +18,7 @@ VD:
 
 + Các thao tác tiền xử lý dữ liệu: gắn nhãn xác định cho từng xe trong từng ảnh
 
-+ Phân chia tập train/test: 10:3
++ Phân chia tập train/test: 10:3 (demo 5:2)
 
 **3. Mô tả về đặc trưng + feature engineering**
 
