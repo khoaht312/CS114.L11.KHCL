@@ -8,6 +8,12 @@
 |2| Nguyễn Tấn Phúc | 18521259 | [18521259](https://github.com/18521259) | |
 |3| Nguyễn Tiến Công | 17520299 | [17520299](https://github.com/17520299) | |
 
+
+# Đồ án cuối kỳ
+- [ ] Mô tả đồ án
+- [ ] ...
+
+
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
 > Mỗi file bài tập bao gồm đề bài, code (và bình luận hoặc chú thích).
@@ -27,10 +33,6 @@
 
 5. **House Prices - Kaggle**
 - [x] [Google Colab Notebook](https://github.com/18520918/CS114.L11.KHCL/blob/master/HousePricesKAGGLE.ipynb)
-
-# Đồ án cuối kỳ
-- [ ] Mô tả đồ án
-- [ ] ...
 
 # Dịch và tóm tắt sách
 - [ ] Introduction to Machine learning with Python (8 chapters)
