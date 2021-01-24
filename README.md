@@ -32,7 +32,7 @@
 - [x] [News Headlines Sarcasm Detection](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%205/New_Headline_Sarcasm_Detection.ipynb)
 
 5. **House Prices - Kaggle**
-- [x] [Google Colab Notebook](https://github.com/18520918/CS114.L11.KHCL/blob/master/HousePricesKAGGLE.ipynb)
+- [x] [Google Colab Notebook](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%206/HousePricesKAGGLE.ipynb)
 
 # Dịch và tóm tắt sách
 - [ ] Introduction to Machine learning with Python (8 chapters)
