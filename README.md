@@ -10,8 +10,8 @@
 
 
 # Đồ án cuối kỳ
-- [ ] Mô tả đồ án
-- [ ] ...
+- [ ] [Mô tả đồ án](https://github.com/18520918/CS114.L11.KHCL/blob/master/Capstone%20Project/MoTaDoAn_N003.ipynb)
+- [ ] [Source Code](https://github.com/18520918/CS114.L11.KHCL/tree/master/Capstone%20Project)
 
 
 # Thực hành
@@ -34,7 +34,4 @@
 5. **House Prices - Kaggle**
 - [x] [Google Colab Notebook](https://github.com/18520918/CS114.L11.KHCL/blob/master/Assignment%206/HousePricesKAGGLE.ipynb)
 
-# Dịch và tóm tắt sách
-- [ ] Introduction to Machine learning with Python (8 chapters)
-- [ ] Hands-on Machine learning with Scikit-learn & Tensorflow (15 chapters)
 
