@@ -1,5 +1,6 @@
-# Thông tin repository:
-- Nơi lưu trữ bài tập, đồ án của nhóm **N003** lớp **CS114.L11.KHCL** trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM
+# CS114.L11.KHCL@UIT (2020-2021) | Machine Learning
+
+![image](https://github.com/18520918/CS114.L11.KHCL/assets/69152064/a29327bd-f5f2-4df8-b162-6273acbb9f89)
 
 # Thành viên nhóm
 | STT | Họ và tên | Mã số sinh viên| Tài khoản github | Vai trò |
@@ -10,9 +11,8 @@
 
 
 # Đồ án cuối kỳ
-- [ ] [Mô tả đồ án](https://github.com/18520918/CS114.L11.KHCL/blob/master/Capstone%20Project/MoTaDoAn_N003.ipynb)
-- [ ] [Source Code](https://github.com/18520918/CS114.L11.KHCL/tree/master/Capstone%20Project)
-
+- [x] [Mô tả đồ án](https://github.com/18520918/CS114.L11.KHCL/blob/master/Capstone%20Project/MoTaDoAn_N003.ipynb)
+- [x] [Source Code](https://github.com/18520918/CS114.L11.KHCL/tree/master/Capstone%20Project)
 
 # Thực hành
 1. **Lập trình bằng Python [Wecode]**
